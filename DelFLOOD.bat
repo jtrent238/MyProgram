@@ -1,0 +1,2 @@
+del "C:\FLOOD"
+pause
