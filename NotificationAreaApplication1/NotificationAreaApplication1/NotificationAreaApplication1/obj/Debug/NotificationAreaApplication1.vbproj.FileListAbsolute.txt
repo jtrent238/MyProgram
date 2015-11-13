@@ -1,0 +1,13 @@
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\bin\Debug\NotificationAreaApplication1.exe
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\bin\Debug\NotificationAreaApplication1.pdb
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\obj\Debug\Window1.g.vb
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\obj\Debug\Application.g.vb
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\obj\Debug\NotificationAreaApplication1_MarkupCompile.cache
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\obj\Debug\NotificationAreaApplication1_MarkupCompile.lref
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\obj\Debug\Window1.baml
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\obj\Debug\NotificationAreaApplication1.g.resources
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\obj\Debug\NotificationAreaApplication1.exe
+C:\Users\jtrent238\AppData\Local\Temporary Projects\NotificationAreaApplication1\obj\Debug\NotificationAreaApplication1.pdb
+C:\Users\jtrent238\Documents\GitHub\MyProgram\NotificationAreaApplication1\NotificationAreaApplication1\NotificationAreaApplication1\obj\Debug\NotificationAreaApplication1.exe
+C:\Users\jtrent238\Documents\GitHub\MyProgram\NotificationAreaApplication1\NotificationAreaApplication1\NotificationAreaApplication1\obj\Debug\NotificationAreaApplication1.pdb
